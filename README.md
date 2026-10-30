@@ -12,10 +12,10 @@ If don't work change game path in Install.ps1
 
 Play the game
 
-Coop button place on the bottom of the screen and named "Кооперативная игра"
+Coop button place on the bottom of the screen and named "Кооператив"
 
 Execute
 
-Select group size and start or load a game
+Select group size and start or load the game
 
 Invite your friend's through steam or send him the code
