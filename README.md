@@ -1,10 +1,10 @@
 # SkyhillTogether
 
-This version only for two players
+# Important note - The modification buttons translated only into Russian language. An English localization might be available in the future.
 
 Download .zip from release
 
-Unpack.
+Unpack
 
 Execute Install.cmd
 
@@ -12,8 +12,10 @@ If don't work change game path in Install.ps1
 
 Play the game
 
-F8 to open/close host panel
+Coop button place on the bottom of the screen and named "Кооперативная игра"
 
-Host the game and choose continue or start the run
+Execute
 
-Send game code to your friend
+Select group size and start or load a game
+
+Invite your friend's through steam or send him the code
